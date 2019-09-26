@@ -8,7 +8,7 @@ public class CompteBanque {
 	public double getSolde() {
 		return solde;
 	}
-
+//ajout fonction
 
 	public void setSolde(double solde) {
 		this.solde = solde;
